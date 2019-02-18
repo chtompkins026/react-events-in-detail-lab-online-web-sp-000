@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class Keypad extends React.Component{
+export default class CoordinatesButton extends React.Component{
   
   
   
